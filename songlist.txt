@@ -1,6 +1,6 @@
 9999	Party Rock Anthem (Full)	LMFAO	-1	0	0
-https://drive.google.com/uc?export=download&id=1GY8JMO8FODO500YtwwUGEFLw8q_Ejrpx
-https://drive.google.com/uc?export=download&id=1RFj8W8Yci1fwTLkna1icItDkKX5jAOhe
+https://raw.githubusercontent.com/JustTestingSomethingABC/songs/main/0401.mp3
+https://raw.githubusercontent.com/JustTestingSomethingABC/songs/main/a05a22e8-dfcf-417b-92db-9b33b0799c71.mp3
 1	0.25	0	0;30;256.00	1;1.0204081633;1.0416666667
-UNLOCK_BY_VIDEO DEFAULT 0 0 https://drive.google.com/uc?export=download&id=1mAE6_IGYrQ6iuTPL8XNpojskJaxOBEKk
-22	https://drive.google.com/uc?export=download&id=1eE7as4FyoUkMoCoc45MD6ADtfk3u7SxX
+UNLOCK_BY_VIDEO DEFAULT 0 0 https://raw.githubusercontent.com/JustTestingSomethingABC/songs/main/Screenshot_20260401-010022.YouCut%20-%20Video%20Editor.png
+22	https://raw.githubusercontent.com/JustTestingSomethingABC/songs/main/0_aded45cc-4926-44d9-9d59-046199912c0b.bin
