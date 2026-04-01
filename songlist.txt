@@ -1,0 +1,6 @@
+9999	Party Rock Anthem (Full)	LMFAO	-1	0	0
+https://drive.google.com/uc?export=download&id=1GY8JMO8FODO500YtwwUGEFLw8q_Ejrpx
+https://drive.google.com/uc?export=download&id=1RFj8W8Yci1fwTLkna1icItDkKX5jAOhe
+1	0.25	0	0;30;256.00	1;1.0204081633;1.0416666667
+UNLOCK_BY_VIDEO DEFAULT 0 0 https://drive.google.com/uc?export=download&id=1mAE6_IGYrQ6iuTPL8XNpojskJaxOBEKk
+22	https://drive.google.com/uc?export=download&id=1eE7as4FyoUkMoCoc45MD6ADtfk3u7SxX
